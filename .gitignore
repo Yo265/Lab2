@@ -1,3 +1,4 @@
-*.a
-*.o
+#Ignoring object files
+*.[ao]
+
 
